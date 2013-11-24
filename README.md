@@ -1,11 +1,14 @@
-<<<<<<< HEAD
-ejb-web
-=======
-
-ejb-web
-=======
 retail-web
 ==========
 
-Retail Store Spring application
->>>>>>> branch 'master' of https://github.com/pkshowcase/retail-web.git
+<h3>Retail Store Spring application</h3>
+
+<h4>Dependencies</h4>
+<ol>
+  <li>Spring 3.1.0</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+
